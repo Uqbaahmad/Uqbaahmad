@@ -5,11 +5,11 @@
 
 - 👩🏻‍💻 I'm currently working on **YouTube Trending Video Dataset (Project)**
 
-- All my project and details available here [https://sites.google.com/view/uqbaprotfolio/home](https://sites.google.com/view/uqbaprotfolio/home)
+- 📝 All my projects and details are available here [https://sites.google.com/view/uqbaprotfolio/home](https://sites.google.com/view/uqbaprotfolio/home)
 
 - 📝 Article on projects [https://medium.com/@uqba2199](https://medium.com/@uqba2199)
 
-- 📈 I'm currently learning **Google Gloud, Machine Learning, NLP**
+- 📈 I'm currently learning **Google Cloud, Machine Learning, NLP**
 
 - 📫 How to reach me **uqbaahmad2107@gmail.com**
 
