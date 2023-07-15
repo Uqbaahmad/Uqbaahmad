@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Uqba Ahmad</h1>
 <h3 align="center">"Fueling Discovery and Empowering Decisions: A Passionate Data Analyst and Data Scientist Enthusiast"</h3>
+
 <img align="right" alt="coding" width = 400 src ="https://github.com/ShreyasiDebnath">
+
 - 👩🏻‍💻 I'm currently working on **YouTube Trending Video Dataset (Project)**
 
 - 📝 All my projects and details are available here **["Click for Access"](https://sites.google.com/view/uqbaprotfolio/home)**
