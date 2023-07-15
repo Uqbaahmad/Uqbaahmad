@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Uqba Ahmad</h1>
 <h3 align="center">"Fueling Discovery and Empowering Decisions: A Passionate Data Analyst and Data Scientist Enthusiast"</h3>
-<p><img src="[/url](https://www.freepik.com/free-vector/network-mesh-wire-digital-technology-background_10136775.htm#query=data%20science%20background&position=0&from_view=keyword&track=ais)" /></p>
-
+<img align="right" alt="coding" width = 400 src ="https://github.com/ShreyasiDebnath">
 - 👩🏻‍💻 I'm currently working on **YouTube Trending Video Dataset (Project)**
 
 - 📝 All my projects and details are available here **["Click for Access"](https://sites.google.com/view/uqbaprotfolio/home)**
@@ -14,7 +13,7 @@
 
 - 📝 Research article **["Click for Access"](https://www.researchgate.net/profile/Uqba-Ahmad)**
   
-- ⚡ Fun fact **I am simple**
+- ⚡ Fun fact **I'm a simple person who finds joy in the little things. **
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
