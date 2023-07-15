@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Uqba Ahmad</h1>
 <h3 align="center">"Fueling Discovery and Empowering Decisions: A Passionate Data Analyst and Data Scientist Enthusiast"</h3>
-
+<p style="background-image: url('[img_girl.jpg](https://www.freepik.com/free-vector/network-mesh-wire-digital-technology-background_10136775.htm#query=data%20science%20background&position=0&from_view=keyword&track=ais)');">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uqbaahmad&label=Profile%20views&color=0e75b6&style=flat" alt="uqbaahmad" /> </p>
 
 - 👩🏻‍💻 I'm currently working on **YouTube Trending Video Dataset (Project)**
