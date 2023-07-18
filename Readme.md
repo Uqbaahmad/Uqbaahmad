@@ -16,7 +16,7 @@
 
 - 📝 Research article **["Click for Access"](https://www.researchgate.net/profile/Uqba-Ahmad)**
   
-- ⚡ Fun fact **I'm a simple person who finds joy in the little things. **
+- ⚡ Fun fact **I'm a simple person who finds joy in the little things.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
