@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Uqba Ahmad</h1>
 <h3 align="center">"Fueling Discovery and Empowering Decisions: A Passionate Data Analyst and Data Scientist Enthusiast"</h3>
 
-- 📝 Blogs on projects **["Click for Access"](https://medium.com/@uqba2199)**
-
 - 📈 I'm currently learning **Google Cloud, Machine Learning, NLP**
+
+- 📝 Blogs on projects **["Click for Access"](https://medium.com/@uqba2199)**
 
 - 📫 How to reach me **uqbaahmad2107@gmail.com**
 
